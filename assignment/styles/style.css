@@ -1,1 +1,16 @@
 /* give your assignment a fun background color */
+
+body {
+  background-color: #8FBC8F;
+}
+
+h1 {
+  color: DarkSlateGrey;
+  text-align: center;
+  p.dotted {border-style: dotted;}
+}
+
+h2 {
+  color: LightGreen;
+  text-align: center;
+}
